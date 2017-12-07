@@ -1,0 +1,13 @@
+{
+  "name": "tailwind-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "poi"
+  },
+  "devDependencies": {
+    "poi": "^9.5.7",
+    "tailwindcss": "^0.3.0"
+  }
+}
